@@ -45,6 +45,6 @@ The Affine Cipher Project is a Python-based tool for encrypting and decrypting t
    ```sh
    python affine_cipher.py <type> <string> <a> <b>
 
-<type>: 'e' for encryption, 'd' for decryption.
-<string>: The text you want to encrypt or decrypt.
-<a> and <b>: Key values for the Affine Cipher.
+# Type: 'e' for encryption, 'd' for decryption.<br>
+# String : The text you want to encrypt or decrypt.<br>
+# a and b : Key values for the Affine Cipher.
